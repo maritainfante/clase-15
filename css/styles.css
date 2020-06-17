@@ -469,7 +469,7 @@ mark,
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #6c757d;
+  color: #4fb2e0;
 }
 .blockquote-footer::before {
   content: "— ";
@@ -500,12 +500,12 @@ mark,
 
 .figure-caption {
   font-size: 90%;
-  color: #6c757d;
+  color: #4fb2e0;
 }
 
 code {
   font-size: 87.5%;
-  color: #e83e8c;
+  color: #4fb2e0;
   word-wrap: break-word;
 }
 a > code {
@@ -515,7 +515,7 @@ a > code {
 kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
-  color: #fff;
+  color: #8f9a60;
   background-color: #212529;
   border-radius: 0.2rem;
 }

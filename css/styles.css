@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 /*!
 * Start Bootstrap - Agency v6.0.1 (https://startbootstrap.com/template-overviews/agency)
 * Copyright 2013-2020 Start Bootstrap
@@ -242,9 +243,9 @@ select,
 optgroup,
 textarea {
   margin: 0;
-  font-family: inherit;
-  font-size: inherit;
-  line-height: inherit;
+  font-family: Shadows Into Light;
+  font-size: Shadows Into Light;
+  line-height: Shadows Into Light;
 }
 
 button,

@@ -3928,8 +3928,8 @@ input[type=button].btn-block {
 }
 .nav-tabs .nav-link {
   border: 1px solid transparent;
-  border-top-left-radius: 0.25rem;
-  border-top-right-radius: 0.25rem;
+  border-top-left-radius: 0.50rem;
+  border-top-right-radius: 0.50rem;
 }
 .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
   border-color: #e9ecef #e9ecef #dee2e6;
@@ -3999,10 +3999,10 @@ input[type=button].btn-block {
 }
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.3125rem;
-  padding-bottom: 0.3125rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
   margin-right: 1rem;
-  font-size: 1.25rem;
+  font-size: 1.50rem;
   line-height: inherit;
   white-space: nowrap;
 }
